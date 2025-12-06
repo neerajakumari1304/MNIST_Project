@@ -23,7 +23,8 @@ SVM (RBF Kernel)
   - Load and preprocess data
   - Train all models
   - Evaluate performance with accuracy scores
-✔ Compute:
+    
+## Compute:
 - Accuracy
 - Confusion Matrix
 - Classification Report
